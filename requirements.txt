@@ -1,0 +1,6 @@
+# Local Streamlit inference dependencies only.
+# Training dependencies are installed separately in the Colab notebook.
+torch>=2.0
+torchvision>=0.15
+Pillow>=9.0
+streamlit>=1.30
